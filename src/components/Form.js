@@ -26,7 +26,7 @@ const Form = () =>{
                 <div className="column one wide">
                     <button 
                     type="submit" 
-                    className="ui button circular icon green">
+                    className="ui button circular icon blue">
                         <i className="white plus icon"></i>
                     </button>
                 </div>

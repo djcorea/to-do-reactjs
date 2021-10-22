@@ -9,13 +9,15 @@ const List =()=>{
                 </div>
 
                 <div className="column one wide">
-                    <button className="ui button circular icon blue"><i className="check icon"></i></button>
+                    <button className="ui button circular icon green"><i className="check icon"></i></button>
                 </div>
 
                 <div className="column one wide">
                     <button className="ui button circular icon red"><i className="remove icon"></i></button>
                 </div>
 
+
+               
             </div>
         </div>
     );
